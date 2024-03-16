@@ -1,5 +1,5 @@
 # SymProcAddress
-Zero EAT touch way to retrieve function addresses
+Zero EAT touch way to retrieve function addresses (GetProcAddress on steroids)
 
 ![изображение](https://github.com/MzHmO/SymProcAddress/assets/92790655/498974fc-48c8-4da6-b727-77f969c7ed3c)
 
